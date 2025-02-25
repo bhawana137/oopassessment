@@ -5,10 +5,10 @@ package weekone;
 public class PersonalDetails {
 
 	public static void main(String[] args) {
-		String name = "Bhawana Shrestha";
+		String name = "Kipa Shakya";
 		String address = "Kathmandu";
-		int age = 21;
-		long phoneNumber = 9741010321L;
+		int age = 15;
+		long phoneNumber = 9731010321L;
 		System.out.println("Personal Details:");
 		System.out.println("Name:"+name);
 		System.out.println("Address:"+ address);
