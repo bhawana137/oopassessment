@@ -1,5 +1,25 @@
-package week2;
+/*
+Write a Java program that prints a table with a list of at least 5 students together with their grades earned (lab points, bonus points, and 
+the total) in the format below.
+///////////////////\\\\\\\\\\\\\\\\\\\
+==          Student Points          ==
+\\\\\\\\\\\\\\\\\\\///////////////////
 
+
+Name            Lab     Bonus   Total
+----            ---     -----   -----
+Joe             43      7       50
+William         50      8       58
+Mary Sue        39      10      49
+
+The requirements for the program are as follows:
+
+Print the border on the top as illustrated (using the slash and backslash characters).
+Use tab characters to get your columns aligned and you must use the + operator both for addition and string concatenation.
+Make up your own student names and points—the ones shown are just for illustration purposes. You need 5 names.
+*/
+
+package week2;
 public class StudentScores {
     public static void main(String[] args) {
         // Print the top border
