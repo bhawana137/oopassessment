@@ -1,4 +1,4 @@
-/*Write a Java program that prints a table with a list of at least 5 students together with their grades earned (lab points, bonus points,
+/* Write a Java program that prints a table with a list of at least 5 students together with their grades earned (lab points, bonus points,
 and the total) in the format below.
 ///////////////////\\\\\\\\\\\\\\\\\\\
 ==          Student Points          ==
@@ -13,7 +13,6 @@ Mary Sue        39      10      49
 */
 
 package week2;
-
 import java.util.Scanner;
 public class Average {
     public static void main(String[] args) {
