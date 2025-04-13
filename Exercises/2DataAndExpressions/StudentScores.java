@@ -13,7 +13,6 @@ William         50      8       58
 Mary Sue        39      10      49
 
 The requirements for the program are as follows:
-
 Print the border on the top as illustrated (using the slash and backslash characters).
 Use tab characters to get your columns aligned and you must use the + operator both for addition and string concatenation.
 Make up your own student names and points—the ones shown are just for illustration purposes. You need 5 names.
