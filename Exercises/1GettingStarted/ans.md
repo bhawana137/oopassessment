@@ -1,3 +1,30 @@
+```
+package weekone;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
+```
+
+![image](https://github.com/user-attachments/assets/87811885-8e3f-42fc-83bd-ebd702256bb1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 5 -
 a) As of February 2025, the latest release of the Java Standard Edition (Java SE) Platform is JDK 23.0.2. Additionally, JDK 21 is the most recent Long-Term Support (LTS) release. 
 
