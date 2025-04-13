@@ -26,6 +26,7 @@ e. Change println to bogus.
 f. Remove the semicolon at the end of the println statement.
 
 g. Remove the last brace in the program.
+
 a. 
 ```
 package weekone;
