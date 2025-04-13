@@ -120,8 +120,24 @@ public class Test
 Java requires a semicolon (;) at the end of each statement. Removing it results in a syntax error.
 
 
+g.
+```
+package weekone;
 
+public class Test 
+{
+	   //----------------------------------------------------
+	   //  Prints a statement.
+	   //----------------------------------------------------
+	   public static void main (String[] args)
+	   {
+	      System.out.println ("An emergency Broadcast");
+	   }
+	
 
+```
+![image](https://github.com/user-attachments/assets/d4a194bf-c5d2-4d0d-a71c-ac2da283663f)
+Java uses curly braces {} to define code blocks. Removing the last } makes the class definition incomplete.
 
 
 
