@@ -1,3 +1,10 @@
+/*
+Firm Vacation (PP4)
+Create a class called Password that implements the Encryptable interface from the examples. Then create a main driver that instantiates a Secret 
+object and a Password object, using the same reference variable, and exercise their methods. Use any type of encryption for Password, other than 
+the Caesar cipher used by Secret.
+*/
+
 package week8;
 
 // Interface that defines a contract for encryption
