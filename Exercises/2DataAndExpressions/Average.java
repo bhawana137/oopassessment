@@ -1,3 +1,17 @@
+/*Write a Java program that prints a table with a list of at least 5 students together with their grades earned (lab points, bonus points,
+and the total) in the format below.
+///////////////////\\\\\\\\\\\\\\\\\\\
+==          Student Points          ==
+\\\\\\\\\\\\\\\\\\\///////////////////
+
+
+Name            Lab     Bonus   Total
+----            ---     -----   -----
+Joe             43      7       50
+William         50      8       58
+Mary Sue        39      10      49
+*/
+
 package week2;
 
 import java.util.Scanner;
