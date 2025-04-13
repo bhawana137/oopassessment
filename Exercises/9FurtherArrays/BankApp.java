@@ -5,6 +5,7 @@ Create an account
 Make a deposit
 Make a withdrawal Produce appropriate error messages for invalid transactions. Also provide a method to add 3 percent interest to all accounts
 when ever the method is called.
+Create a driver class to test all the methods.
 */
 
 package week9;
