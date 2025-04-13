@@ -1,3 +1,11 @@
+/*
+Pin Encryption
+Write a block of source code to encrypt a four digit pin number by doing the following:
+Convert the pin number to hexadecimal.
+Generate two random numbers greater than 1000 and less than 65536 and convert them to hexadecimal.
+Sandwich the converted pin between the two random hexadecimal numbers.
+*/
+
 package week4;
 import java.util.Random;
 import java.util.Scanner;
