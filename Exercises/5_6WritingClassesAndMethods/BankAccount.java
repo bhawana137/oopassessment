@@ -1,3 +1,9 @@
+/*
+Account
+Modify the Account class from the unit examples so that it also permits an account to be opened with just a name and an account number, assuming 
+an initial balance of zero. Modify the main method of the Transactions class to demonstrate this new capability.
+*/
+
 package week5;
 public class BankAccount {
     public static void main(String[] args) {
