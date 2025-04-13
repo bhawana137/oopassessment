@@ -1,15 +1,50 @@
-/* Write a Java program that prints a table with a list of at least 5 students together with their grades earned (lab points, bonus points,
-and the total) in the format below.
-///////////////////\\\\\\\\\\\\\\\\\\\
-==          Student Points          ==
-\\\\\\\\\\\\\\\\\\\///////////////////
+/* 
+The following program reads three integers and prints the average. Fill in the blanks so that it will work correctly.
+// *******************************************************************
+//   Average.java
+//
+//   Read three integers from the user and print their average
+// *******************************************************************
 
 
-Name            Lab     Bonus   Total
-----            ---     -----   -----
-Joe             43      7       50
-William         50      8       58
-Mary Sue        39      10      49
+import java.util.Scanner;
+public class Average
+{
+    public static void main(String[] args)
+    {
+       int val1, val2, val3;
+       double average;
+       Scanner scan = new Scanner(System.in) ;
+
+
+       // get three values from user
+       System.out.println("Please enter three integers and " +
+                       "I will compute their average");
+
+
+       ____________________________________
+
+
+       ____________________________________
+
+
+       ____________________________________
+
+
+       //compute the average
+
+
+       ____________________________________
+
+
+       //print the average
+
+
+       ____________________________________
+
+
+    }
+}
 */
 
 package week2;
