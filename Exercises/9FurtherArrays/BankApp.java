@@ -1,3 +1,12 @@
+/*
+LL Bank Accounts
+The L&L Bank can handle up to 30 customers who have savings accounts. Design and implement a program that manages the customer accounts.
+Create an account
+Make a deposit
+Make a withdrawal Produce appropriate error messages for invalid transactions. Also provide a method to add 3 percent interest to all accounts
+when ever the method is called.
+*/
+
 package week9;
 import java.util.Scanner;
 
