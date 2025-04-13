@@ -40,8 +40,25 @@ public class Test
 Compiler error: none Explanation: Changing a word inside a string does not affect compilation because string literals are not syntax-related.
 
 
+c. 
+```
+package weekone;
 
+public class Test 
+{
+	   //----------------------------------------------------
+	   //  Prints a statement.
+	   //----------------------------------------------------
+	   public static void main (String[] args)
+	   {
+	      System.out.println (An emergency Broadcast");
+	   }
+	
+}
 
+```
+![image](https://github.com/user-attachments/assets/082531cf-dfcc-4803-8fda-4b9a5e562468)
+String literals must be enclosed in double quotes.
 
 
 
