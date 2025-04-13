@@ -77,7 +77,6 @@ This repository contains all programming exercises and projects completed for th
 ## Author
 
 Student: Bhawana Shrestha
-
 Course: Object-Oriented Programming  
 Institution: Leeds Beckett University  
 Academic Year: 2024/2025
