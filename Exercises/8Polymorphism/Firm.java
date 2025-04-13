@@ -1,3 +1,8 @@
+/*
+Modify the Firm example from the examples such that all employees can be given vacation options depending on their classification/roll. Modify
+the driver program to demonstrate this new functionality.
+*/
+
 package week8;
 
 //Main class 
