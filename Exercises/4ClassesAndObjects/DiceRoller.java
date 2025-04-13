@@ -1,3 +1,11 @@
+/*
+Dice
+Write a program that simulates rolling two dice using the following steps:
+Prompt the user for the number of sides for two dice.
+“Roll” the dice three times by generating a random number between 1 (inclusive) and the number of sides (inclusive).
+Keep track of the sum of the rolls for each die and output the sum and average for each die.
+*/
+
 package week4;
 import java.util.Scanner;
 import java.util.Random;
