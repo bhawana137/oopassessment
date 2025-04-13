@@ -1,5 +1,9 @@
-package week2;
+/*
+Write an application that prompts and reads the numerator and denominator of a fraction as integers and then prints the decimal equivalent of the 
+fraction.
+*/
 
+package week2;
 import java.util.Scanner;
 public class Fraction {
     public static void main(String[] args) {
