@@ -1,3 +1,10 @@
+/*
+ Quiz Time
+Define a class called Quiz that manages a set of up to 25 Question objects. Define the add method of the Quiz class to add a question to the quiz. 
+Define the giveQuiz method of the Quiz class to present each question in turn to the user, accept an answer for each one, and keep track of the
+results. Define a class called QuizTime with a main method that populates a quiz , presents it , and prints the final results
+*/
+
 package week9;
 import java.util.Scanner;
 
