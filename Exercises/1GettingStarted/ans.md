@@ -100,7 +100,24 @@ public class Test
 ![image](https://github.com/user-attachments/assets/91148b3e-0000-4f77-8958-e8413d2829c0)
 System.out does not have a method called bogus(). The correct method is println().
 
+f.
+```
+package weekone;
 
+public class Test 
+{
+	   //----------------------------------------------------
+	   //  Prints a statement.
+	   //----------------------------------------------------
+	   public static void man (String[] args)
+	   {
+	      System.out.bogus ("An emergency Broadcast")
+	   }
+	
+}
+```
+![image](https://github.com/user-attachments/assets/2538740c-672b-40af-b11d-bd7d5646a47d)
+Java requires a semicolon (;) at the end of each statement. Removing it results in a syntax error.
 
 
 
