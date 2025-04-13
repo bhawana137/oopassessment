@@ -1,4 +1,25 @@
-Test
+“Test”. Create a project, enter, compile and run the following application.
+```
+public class Test
+{
+   //----------------------------------------------------
+   //  Prints a statement.
+   //----------------------------------------------------
+   public static void main (String[] args)
+   {
+      System.out.println ("An Emergency Broadcast");
+   }
+}
+```
+Introduce the following errors, one at a time. Note any messages that the compiler produces. Fix the previous error each time. If no error messages are produced, be prepared to explain why.
+
+a. Change Test to test.
+b. Change Emergency to emergency.
+c. Remove the first quotation mark in the string.
+d. Change main to man.
+e. Change println to bogus.
+f. Remove the semicolon at the end of the println statement.
+g. Remove the last brace in the program.
 a. 
 ```
 package weekone;
