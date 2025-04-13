@@ -1,3 +1,10 @@
+/*
+Player Statistics
+Design and implement a set of classes that keep track of various player sports statistics (PlayerStats). Have a lower level (sub) class that 
+represent specific sports (FootballStats, CricketStats…). Tailor the services of the classes to the sport in question, with common attributes and
+methods in the higher-level class, as appropriate. Create a driver class to instantiate and text instances of the classes.
+*/
+
 package week7;
 
 //Base class for all player stats
