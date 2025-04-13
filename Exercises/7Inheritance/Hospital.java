@@ -1,3 +1,11 @@
+/*
+Hospital
+Design and implement a set of classes that define the employees of a hospital: doctor, nurse, receptionist, cleaner etc. Include methods in each
+class that are named according to the services provided by that person and that print an appropriate message. Eg Nurse Emp# has patients, Doctor 
+Emp# specializes in Cleaner, Emp# of is sweeping.
+Create a driver class to instantiate and test the classes
+*/
+
 package week7;
 
 // Base class for all hospital employees
