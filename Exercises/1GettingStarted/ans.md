@@ -80,6 +80,25 @@ public class Test
 ![image](https://github.com/user-attachments/assets/4dd56594-575d-49bf-902e-484e34a5e412)
 The JVM requires a method named main as the program’s entry point. Changing it to man makes the JVM unable to find the starting method.
 
+e.
+```
+package weekone;
+
+public class Test 
+{
+	   //----------------------------------------------------
+	   //  Prints a statement.
+	   //----------------------------------------------------
+	   public static void man (String[] args)
+	   {
+	      System.out.bogus ("An emergency Broadcast");
+	   }
+	
+}
+
+```
+![image](https://github.com/user-attachments/assets/91148b3e-0000-4f77-8958-e8413d2829c0)
+System.out does not have a method called bogus(). The correct method is println().
 
 
 
