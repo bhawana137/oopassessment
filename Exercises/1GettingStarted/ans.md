@@ -65,7 +65,8 @@ public class Test
 }
 ```
 ![image](https://github.com/user-attachments/assets/690e5469-971c-4ddf-b9a8-269eb7ead988)
-Compiler error: none Explanation: Changing a word inside a string does not affect compilation because string literals are not syntax-related.
+Compiler error: none
+Explanation: Changing a word inside a string does not affect compilation because string literals are not syntax-related.
 
 
 c. 
