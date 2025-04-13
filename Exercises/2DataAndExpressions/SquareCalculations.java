@@ -1,5 +1,8 @@
-package week2;
+/*
+Write an application that prompts for and reads integer representing the length of a square’s side, then prints the square’s perimeter and area.
+*/
 
+package week2;
 import java.util.Scanner;
 public class SquareCalculations {
     public static void main(String[] args) {
