@@ -1,3 +1,9 @@
+/*
+Bulb
+Design and implement a class called Bulb that represents a light bulb that can be turned on and off.
+Create a driver class called Lights, whose main method instantiates and turns on some Bulb objects
+*/
+
 package week5;
 public class Lights {
     public static void main(String[] args) {
